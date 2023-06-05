@@ -1,0 +1,34 @@
+{
+    "name": "Crosshair",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "95ce6bba-e27a-42e2-ba2f-f60c2f89009a",
+            "actions": [
+                {
+                    "name": "LClick",
+                    "type": "Button",
+                    "id": "67680789-bd60-4963-b677-82bfbb8007c2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "567987ef-2c32-4e63-be65-eecb0a0373ba",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Press(behavior=1)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
